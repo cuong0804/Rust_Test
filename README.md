@@ -12,7 +12,7 @@ cargo new hello_work
 cd hello_work
 cargo build
 cargo run
-.....
+...
 
 3. Using Visual code vs extension Rust-analyzer
 
